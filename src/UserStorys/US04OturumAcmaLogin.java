@@ -6,7 +6,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-public class US_04_OturumAcmaLogin extends Basedriver {
+public class US04OturumAcmaLogin extends Basedriver {
     @Test
     public void OturumAcmaLogin(){
         driver.get("https://www.akakce.com/");
